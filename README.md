@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **naitikpatel107@gmail.com**
 
-- 😇 Can't Live Without Notion, VS Code, Google Calendar, Gmail](Notion, VS Code, Google Calendar, Gmail
+- 😇 Can't Live Without Notion, VS Code, Google Calendar, Gmail
 
 # My stats
 <div>
