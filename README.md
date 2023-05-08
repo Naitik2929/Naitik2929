@@ -70,6 +70,8 @@
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="https://www.leetcode.com/naitikpatel107" target="blank">
+		<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+	</a>
 	
   <br>
 </p>
