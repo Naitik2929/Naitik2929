@@ -72,6 +72,9 @@
 	<a href="https://www.leetcode.com/naitikpatel107" target="blank">
 		<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 	</a>
+	<a href="https://www.instagram.com/__.naitikk.__007/" target="blank">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+	</a>
 	
   <br>
 </p>
