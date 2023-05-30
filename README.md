@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naitik Patel</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naitik2929&label=Profile%20views&color=0e75b6&style=flat" alt="naitik2929" /> </p>
 
 - 🔭 I’m currently working on **something amazing**
 
