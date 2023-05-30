@@ -14,13 +14,13 @@
 
 # My stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=naitik2929&show_icons=true&theme=aura" >
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=naitik2929&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=naitik2929&hide_border=true&theme=radical" />
 </div>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitik2929&theme=aura" >
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naitik2929&theme=radical" >
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
