@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **something amazing**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning about **Data Analysis**
 
 - 💬 Ask me about **Web developement**
 
